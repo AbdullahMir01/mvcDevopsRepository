@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MVCGitHubProject2nd",
+    "\\MVCGitHubProject2nd\\MVCGitHubProject2nd",
+    "\\MVCGitHubProject2nd\\MVCGitHubProject2nd\\Pages"
   ],
+  "SelectedNode": "\\MVCGitHubProject2nd\\MVCGitHubProject2nd\\Pages\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
